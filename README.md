@@ -1,2 +1,2 @@
 # calculadora
-#https://projetolaurinha.github.io/Calculadora_js
+#https://projetolaurinha.github.io/calculadora
